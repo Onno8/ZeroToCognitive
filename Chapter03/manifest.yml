@@ -6,5 +6,4 @@ applications:
   name: Z2C-rddill
   host: Z2C
   disk_quota: 1024M
-  services:
-    - Speech to Text-oz
+  services: Speech to Text-oz
