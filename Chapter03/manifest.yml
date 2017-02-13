@@ -3,7 +3,6 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-//  name: Z2C-rddill
   name: Z2C-OAC
   host: Z2C
   disk_quota: 1024M
